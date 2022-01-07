@@ -1,5 +1,4 @@
 **Inventory Management
 
-The ultimate purpose is to create an inventory dashboard that visualizes the current status of generics inventory. 
+The ultimate purpose is to create an inventory dashboard that visualizes the current status of generics inventory in each distribution network. 
 This helps them in many ways, including repurposing left-over stocks and utilizing days-on-hand values to identify where they need more stocks in which distribution centers.
-Also, this conveys inventory in allocation. 
