@@ -1,0 +1,4 @@
+**Value Tracking
+
+McKesson's private label supplier bids to end-customers frequently, but there was no such tool to track down how much margin they've earned by winning each bid or in aggregate.
+The purpose of this query was to match sales accordingly to their bids and calculate how much margin they've gained. 
