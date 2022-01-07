@@ -1,0 +1,8 @@
+**Package Size Opportunity Analysis
+
+McKesson sources and distributes drgs in multiple package sizes, and there are cases where customers prefer one over another, 
+which means there is a margin opportunity to capture if McKesson is not currently providing certain pack sizes. 
+
+For example, if drug A is available in 10 and 1000 sizes, but if McKesson's private label supplier only provided 10 and customers prefered 1000, there is an opportunity.
+
+This query helps analyze where those cases are and prescribe how to target.
